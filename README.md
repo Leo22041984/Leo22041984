@@ -5,6 +5,11 @@
 - 👨‍💻  Procuro colaborar em qualquer projeto em que possa contribuir com meu conhecimento.
 - 😄    Pronomes: ele/dele ...
 
+
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo22041984)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Java" height="30" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Leo-SQL" height="30" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
