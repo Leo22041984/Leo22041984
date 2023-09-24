@@ -6,9 +6,7 @@
 - 😄    Pronomes: ele/dele ...
 
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo22041984)](https://github.com/Leo22041984/github-readme-stats) 
-</div>
+![Leo22041984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo22041984&show_icons=true&theme=dracula&count_private=true)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Java" height="30" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
