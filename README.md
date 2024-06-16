@@ -25,8 +25,8 @@
    </div>
   <br>
   <div>
-  <img align="center" alt="Leo-HTML5" height="30"  src="https://img.shields.io/badge/HTML5-yellow?logo=html5">
-  <img align="center" alt="Leo-CSS3" height="30"  src="https://img.shields.io/badge/CSS3-green?logo=css3">
+  <img align="center" alt="Leo-HTML5" height="30"  src="https://img.shields.io/badge/HTML-yellow?logo=html5">
+  <img align="center" alt="Leo-CSS3" height="30"  src="https://img.shields.io/badge/CSS-green?logo=css3">
   <img align="center" alt="Leo-BootStrap" height="30"  src="https://img.shields.io/badge/Bootstrap-35122E?logo=Bootstrap">
   <img align="center" alt="Leo-Node.js" height="30"  src="https://img.shields.io/badge/Node.js-89D5CF?logo=Node.js">
    </div>
