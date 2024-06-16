@@ -20,7 +20,7 @@
   <br>
   <div>
   <img align="center" alt="Leo-Figma" height="30"  src="https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white">
-  <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/Apache%20Netbeans-blue?logo=apache%20netbeans%20IDE&logoColor=white">
+  <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/Apache%20Netbeans-316689?logo=apache%20netbeans%20IDE&logoColor=white">
   <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/Javascript-blue?logo=javascript">
    </div>
   <br>
