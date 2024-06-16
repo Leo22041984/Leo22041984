@@ -20,6 +20,7 @@
   <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/javascript-blue?logo=javascript">
   <img align="center" alt="Leo-HTML5" height="30"  src="https://img.shields.io/badge/HTML5-yellow?logo=html5">
   <img align="center" alt="Leo-CSS3" height="30"  src="https://img.shields.io/badge/CSS3-green?logo=css3">
+   <img align="center" alt="Leo-BootStrap" height="30"  src="https://img.shields.io/badge/Bootstrap-35122E?logo=Bootstrap">
 </div>
 
 
