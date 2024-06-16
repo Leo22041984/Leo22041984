@@ -20,8 +20,8 @@
   <br>
   <div>
   <img align="center" alt="Leo-Figma" height="30"  src="https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white">
-  <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/apache%20netbeans-blue?logo=apache%20netbeans%20IDE&logoColor=white">
-  <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/javascript-blue?logo=javascript">
+  <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/Apache%20Netbeans-blue?logo=apache%20netbeans%20IDE&logoColor=white">
+  <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/Javascript-blue?logo=javascript">
    </div>
   <br>
   <div>
@@ -36,7 +36,7 @@
 ##
 
 <div> 
-  <a href="mailto:leonardoquinsantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-quintino-backend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:leonardoquinsantos@gmail.com"><img alt="Leo-Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-quintino-backend" target="_blank"><img alt="Leo-Linkedin" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
