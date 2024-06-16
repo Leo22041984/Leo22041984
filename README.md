@@ -19,6 +19,7 @@
   <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/apache%20netbeans-blue?logo=apache%20netbeans%20IDE&logoColor=white">
   <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/javascript-blue?logo=javascript">
   <img align="center" alt="Leo-HTML5" height="30"  src="https://img.shields.io/badge/HTML5-yellow?logo=html5">
+  <img align="center" alt="Leo-CSS3" height="30"  src="https://img.shields.io/badge/CSS3-green?logo=css3">
 </div>
 
 
