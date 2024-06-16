@@ -17,7 +17,7 @@
   <img align="center" alt="Leo-MongoDB" height="30"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Leo-Figma" height="30"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
-  <img align="center" alt="Leo-JavaScript" height="30"  src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)">
+  <img align="center" alt="Leo-JavaScript" height="30"  src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 </div>
 
 
