@@ -21,7 +21,7 @@
   <br>
   <div>
   <img align="center" alt="Leo-Apache-Netbeans" height="30"  src="https://img.shields.io/badge/Apache%20Netbeans-266472?logo=apache%20netbeans%20IDE&logoColor=white">
-   <img align="center" alt="Leo-VsCode" height="30"  src="https://img.shields.io/badge/VsCode-93ADD5?logo=VsCode">
+   <img align="center" alt="Leo-VsCode" height="30"  src="https://img.shields.io/badge/VsCode-93ADD5?logo=Visual%20Studio">
   <img align="center" alt="Leo-BootStrap" height="30"  src="https://img.shields.io/badge/Bootstrap-35122E?logo=Bootstrap">
   <img align="center" alt="Leo-Node.js" height="30"  src="https://img.shields.io/badge/Node.js-89D5CF?logo=Node.js">
   </div>
